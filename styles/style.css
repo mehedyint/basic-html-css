@@ -6,10 +6,10 @@
 
 .nav-container {
     display: flex;
-    padding: 5px;
+    padding-top: 10px;
     justify-content: space-around;
-    background-color: #c7e29c;
-    color: #1a1919;
+    background-color: #000000;
+    color: #ffffff;
 }
 
 .items {
@@ -18,7 +18,7 @@
 }
 
 .item {
-    padding: 5px;
+    padding: 15px;
 
 }
 
@@ -55,6 +55,7 @@
     color: #ffffff;
     font-size: 16px;
     margin: 10px;
+    cursor: pointer;
 }
 
 .btn-hire {
@@ -63,5 +64,6 @@
     color: orangered;
     font-size: 16px;
     margin: 10px;
+    cursor: pointer;
 
 }
